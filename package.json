@@ -1,0 +1,17 @@
+{
+  "name": "novichok",
+  "version": "1.0.0",
+  "description": "boilerplate",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server"
+  },
+  "author": "Hubert Cumberdale",
+  "license": "MIT",
+  "private": false,
+  "dependencies": {
+    "@hapi/hapi": "^18.3.1",
+    "jest": "^24.8.0",
+    "sinon": "^7.3.2"
+  }
+}
